@@ -1,0 +1,35 @@
+html {
+    background: url(https://insider.si.edu/wp-content/uploads/2013/09/Agua-Salud-Project_Panama_lowres.jpg) no-repeat center center fixed;
+    background-size:cover;
+
+}
+img {
+    width:400px;
+    height:300px;
+}
+.box {
+    
+    background-color:white;
+    width:450px;
+    padding:15px;
+    border-radius: 25px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+}
+.pic {
+    display:block;
+    margin:auto;
+}
+.pow {
+    width:400px;
+   display:block;
+    margin:auto;
+}
+.captionTwo,.captionThree,.captionFour{
+    display:none;
+}
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
